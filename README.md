@@ -3,7 +3,8 @@
 I'm a computer science student, Minecraft server plugin developer and beginner software engineer.\
 Here are some of my cool GitHub stats, I'm working on improving them!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CosimoTiger&layout=compact)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=CosimoTiger&layout=compact&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=CosimoTiger#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=CosimoTiger&layout=compact&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=CosimoTiger#gh-light-mode-only)
 
 ![Cosimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosimoTiger&include_all_commits=true&show_icons=true&bg_color=45,2845AD,00C4B9&icon_color=FFD466&title_color=E0E0FF&text_color=FFFFFF)
 
