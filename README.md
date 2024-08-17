@@ -11,8 +11,13 @@ Here are some of my cool GitHub stats, I'm working on improving them!
 (I actually have like 2.5k contributions in my previous years)
 
 ### Languages and Tools:
+
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java"
+        width="40" height="40" />
+</a>
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" title="Maven" alt="Maven"
         width="40" height="40" />
 </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -39,6 +44,15 @@ Here are some of my cool GitHub stats, I'm working on improving them!
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript"
         alt="JavaScript" width="40" height="40" />
 </a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
+</a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>
+</a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
+</a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js"
         alt="Vue.js" width="40" height="40" />
@@ -54,5 +68,5 @@ Here are some of my cool GitHub stats, I'm working on improving them!
         height="40" />
 </a>
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40" />
 </a>
