@@ -8,8 +8,6 @@ Here are some of my cool GitHub stats, I'm working on improving them!
 
 ![Cosimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosimoTiger&include_all_commits=true&show_icons=true&bg_color=45,2845AD,00C4B9&icon_color=FFD466&title_color=E0E0FF&text_color=FFFFFF)
 
-(I actually have like 2.5k contributions in my previous years)
-
 ### Languages and Tools:
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -43,6 +41,10 @@ Here are some of my cool GitHub stats, I'm working on improving them!
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript"
         alt="JavaScript" width="40" height="40" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" title="TypeScript"
+        alt="TypeScript" width="40" height="40" />
 </a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
