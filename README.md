@@ -1,7 +1,7 @@
 ### Hello there, I'm Cosimo! 🌻
 
-I'm a computer science student, Minecraft server plugin developer and beginner software engineer.\
-Here are some of my cool GitHub stats, I'm working on improving them!
+I'm a computer science student, Minecraft server plugin developer and junior software engineer.\
+Here are some of my cool GitHub stats. I'm working on improving them!
 
 [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=CosimoTiger&layout=compact&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=CosimoTiger#gh-dark-mode-only)
 [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=CosimoTiger&layout=compact&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=CosimoTiger#gh-light-mode-only)
@@ -48,6 +48,9 @@ Here are some of my cool GitHub stats, I'm working on improving them!
 </a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
+</a>
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>
 </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>
