@@ -1,12 +1,9 @@
-### Hello there, I'm Cosimo! 🌻
+## Hello there, I'm Cosimo! 🌻
 
-I'm a computer science student, Minecraft server plugin developer and junior software engineer.\
-Here are some of my cool GitHub stats. I'm working on improving them!
+I'm a **full-stack software engineer**, a **computer science student** and a **Minecraft server plugin developer**, mostly working with the web.\
+I like making cool stuff with software because of its creative problem-solving and rewarding nature.
 
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=CosimoTiger&layout=compact&theme=algolia#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=CosimoTiger#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=CosimoTiger&layout=compact&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=CosimoTiger#gh-light-mode-only)
-
-### Languages and Tools:
+### Languages and tools
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=openjdk&logoColor=white)](https://kotlinlang.org/)
@@ -34,3 +31,4 @@ Here are some of my cool GitHub stats. I'm working on improving them!
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io)
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![Jira](https://img.shields.io/badge/Jira-3c6fe9?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
